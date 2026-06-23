@@ -1,0 +1,9 @@
+# 编译缓存、IDE临时文件
+*/.hvigor/cache/
+*/.hvigor/outputs/
+*/.hvigor/report/
+*/.idea/
+*/entry/build/
+*/entry/.preview/
+Thumbs.db
+.DS_Store

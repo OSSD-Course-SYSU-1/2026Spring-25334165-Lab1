@@ -1,0 +1,9 @@
+{
+  "routerMap": [
+    {
+      "name":"FullScreen",
+      "pageSourceFile": "src/main/ets/pages/FullScreen.ets",
+      "buildFunction": "FullScreenBuilder"
+    }
+  ]
+}
